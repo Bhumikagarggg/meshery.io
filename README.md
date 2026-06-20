@@ -145,6 +145,6 @@ Before contributing, please review the [Contribution Flow](https://github.com/me
 
 #### License
 
-This repository and site are available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+This repository and site ar e available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
 [🔼Back to top](#mesheryio)
